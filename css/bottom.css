@@ -1,0 +1,34 @@
+.bota{
+  text-decoration: none;
+  color:gray;
+}
+.thh{
+  text-align: left;
+  width: 150px;
+}
+
+.bota:hover{
+  text-decoration: none;
+  color:gray;
+  text-decoration: underline;
+}
+.bottom{
+  background-color: #eeeeee;
+  width: 60%;
+  position: relative;
+  left: 22.5%;
+}
+.table_bottom{
+  width: 100%;
+  text-align: left;
+  border-spacing: 10px;
+  border-bottom: 1px solid #222831;
+  border-top: 1px solid #222831;
+}
+.pp{
+  display:inline-block;
+}
+.pp2{
+  position:absolute;
+  right:0%;
+}

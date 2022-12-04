@@ -1,0 +1,48 @@
+.about-table{
+  position:absolute;
+  top:80%;
+  left:0%;
+  background: linear-gradient(rgba(57,62,70,1),rgba(238,238,238,1));
+  width:100%;
+  height:1050px;
+}
+.data{
+  width:50%;
+  text-align: justify;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.about-table tr{
+
+}
+  .dedomena{
+    background: linear-gradient(rgba(20,193,201,1),rgba(238,238,238,1));
+    width:100%;
+    height:650px;
+  }
+  .kouti{
+    background-color: rgb(0,173,181);
+    display:inline-block;
+    width:29%;
+    font-size: 14px;
+    border-radius: 250px 1000px;
+  
+    transform: rotateY(360deg);
+    transition: transform 2s;
+    text-align:left;
+  }
+  .kouti ul:hover{
+    color:white;
+    transform: scaleY(1.1);
+    transition: color 0.3s transform 0.3s;
+
+  }
+  .kouti:hover{
+    color:white;
+    transform: scaleY(1.1);
+    background-color: rgba(57,62,70,0.9);
+    transition: color 0.3s transform 0.3s background-color 0.3s;
+  }
+  .ola{
+    text-align: center;
+  }

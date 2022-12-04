@@ -1,0 +1,124 @@
+body{
+  padding-left:0%;
+  padding-right: 0%;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  margin-left: 0%;
+  margin-right: 0%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  background-color: #eeeeee;
+}
+.btn{
+    text-decoration:none;
+    text-align: center;
+    margin-right: 5%;
+    font-size:18px ;
+    color:#c5c5c5;
+	  transition: color 1s;
+	  display: inline-block;
+    position:relative;
+    z-index:6;
+    cursor: pointer;
+}
+.btn:hover{
+    color: #ffffff;
+    transition: color 1s;
+}
+.btn:active{
+    color: #ffffff;
+}
+.txt{
+	 text-align: center;
+	 display:inline-block;
+	 list-style-type:none;
+   padding-left:0%;
+   padding-right: 0%;
+   padding-top: 0.5%;
+   padding-bottom: 0%;
+   margin-left: 0%;
+   margin-right: 0%;
+   margin-top: 0%;
+   margin-bottom: 0%;
+   width: 100%;
+   height: 40px;
+   background-color: #222831;
+	 position:fixed;
+   top:0px;
+   left:0px;
+   z-index:5;
+   opacity:0.9;
+}
+.txt li{
+	display:inline-block;
+	margin-left:5%;
+	text-align:center;
+	font-size:18px ;
+}
+.ypo{
+	display:none;
+	position:absolute;
+  z-index:7;
+}
+.ypo2{
+  display:none;
+  position:absolute;
+  z-index:7;
+}
+.ypo:hover .ypo2{
+  display:block;
+  left:150px;
+  top:5px;
+  padding-left:0%;
+  width: auto;
+	background:linear-gradient(#393e46, #393e46);
+	margin-left:0%;
+	color:#c5c5c5;
+	transition: background 1s color 1s;
+	text-align:left;
+}
+li:hover .ypo{
+  display:block;
+  padding-left:0%;
+  width:150px;
+	margin-left:0%;
+	color:#c5c5c5;
+  background:linear-gradient(#222831, #393e46);
+	transition: background 1s color 1s;
+	text-align:left;
+
+}
+.ypo li{
+  margin-top:10px;
+}
+.sub{
+    text-decoration:none;
+    text-align: left;
+    font-size:18px ;
+    color:#c5c5c5;
+	  transition: color 1s;
+	  display:block;
+    z-index:8;
+    margin-right: 50px;
+    margin-bottom: 10px;
+    width: 100px;
+}
+.sub:hover{
+    color: #ffffff;
+    transition: color 1s;
+}
+.sub:active{
+    color: #ffffff;
+}
+.srcbtn{
+  background:linear-gradient(#222831, #393e46);
+  border: gray 1px solid;
+  border-bottom: #ccc 1px solid;
+  margin:auto;
+  width:80%;
+  color:#c5c5c5;
+  margin-top:0px;
+  margin-bottom: 3%;
+  font-size:12px;
+  border-radius:30px;
+}

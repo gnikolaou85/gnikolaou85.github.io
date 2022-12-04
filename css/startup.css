@@ -1,0 +1,36 @@
+img{
+  position:absolute;
+  top:0;
+  left:0;
+  height:100%;
+  width:100%;
+  z-index:-1;
+}
+h1{
+  position:absolute;
+  top:5%;
+  left:5%;
+  color:transparent;
+  z-index:1;
+  color:#eeeeee;
+  transition: color 5s;
+}
+h2{
+  position:absolute;
+  top:80%;
+  right:5%;
+  color:transparent;
+  z-index:1;
+  color:#eeeeee;
+  transition: color 13s;
+}
+.black{
+  position:absolute;
+  top:0;
+  left:0;
+  height:100%;
+  width:100%;
+  z-index:2;
+  background: black;
+  transition:background 20s;
+}

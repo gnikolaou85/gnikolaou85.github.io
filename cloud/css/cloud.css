@@ -1,0 +1,101 @@
+img{
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.atitle{
+  position:absolute;
+  top:43%;
+  left:40%;
+  font-size: 375%;
+  color:#222831;
+  font-weight: bold;
+}
+.h1line{
+  position:absolute;
+  top:57%;
+  left:40%;
+  width:40%;
+  color:#393e46;
+}
+.grammi{
+  width:100%;
+}
+.dedomena{
+  width:50%;
+  padding:20px;
+  text-align: justify;
+}
+.dedomena img{
+  width:100%;
+  margin:auto;
+}
+p{
+  font-size: 30px;
+}
+.astro-img{
+  position:absolute;
+  top: 10%;
+  left:50%;
+  height:70%;
+  width:50%;
+}
+.perigrafi{
+  background-color: #d9bf77;
+  margin:0px;
+
+  width:100%;
+}
+ul{
+  text-align: left;
+  position: relative;
+  padding-left:5%;
+  padding-right:30%;
+  font-size: 150%;
+  font-weight: bold;
+}
+.mesa{
+  font-weight: normal;
+  font-size: 100%;
+}
+.drive{
+  background-color: #f19292;
+  margin:0px;
+  margin-top:-2.5%;
+  width:100%;
+  text-align: right;
+}
+.paketa{
+  background-color: #d6e5fa;
+  width:100%;
+  margin:0px;
+  margin:bottom:0px;
+  margin-top:-2.5%;
+}
+.plansrows:hover{
+  background-color:#f5f5f5;
+}
+.plansrows:hover .price{
+  font-weight: bold;
+}
+.plansrows td {
+  border-top:1px solid gray;
+  font-size:120%;
+  padding: 5px;
+}
+.plansrows{
+  height:100px;
+}
+.plans{
+  border-collapse: collapse;
+  width: 50%;
+}
+.capacity{
+  font-weight: bold;
+  font-family: sans-serif;
+  text-align: justify;
+}
+.price{
+  background-color:#f5f5f5;
+}

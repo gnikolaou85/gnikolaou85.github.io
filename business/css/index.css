@@ -1,0 +1,104 @@
+.title{
+  margin-top: 5%;
+  font-size:375%;
+  font-weight: bold;
+  text-align: center;
+}
+.logia{
+  margin-left:20%;
+  margin-right: 20%;
+}
+.first{
+  position:fixed;
+  z-index: -1;
+}
+.prod{
+  position:absolute;
+  width: 100%;
+  background-color: #eeeeee;
+  z-index: 1;
+  top:100%;
+}
+.fimg{
+  width:100%;
+}
+.ppinakas{
+  width:80%;  
+}
+.pa-title{
+  position: absolute;
+  top:20%;
+  padding-left:10px;
+  color:white;
+  font-weight: bold;
+  font-size: 250%;
+  line-height: 35px;
+}
+.pa-txt{
+  position: absolute;
+  top:25%;
+  padding-left:10px;
+  color:white;
+  font-size: 115%;
+  line-height: 20px;
+  font-weight: bold;
+}
+.pa-btn{
+  position: absolute;
+  top:28%;
+  background-color: white;
+  color: black;
+  border: 10px solid white;
+  text-decoration: none;
+  left: 21%;
+}
+.pa-btn:hover{
+  background-color: black;
+  color: white;
+  border: 10px solid black;
+}
+.f-img{
+  width: 50%;
+  background-color: white;
+}
+.f-td:hover .f-img{
+  background-color: #f4f4f4;
+}
+.f-td{
+  background-color: white;
+  border: 5px solid #eeeeee;
+  text-align: center;
+  cursor: pointer;
+  height: 250px;
+  width: 33.33%;
+}
+.f-td:hover{
+  background-color: #f4f4f4;
+  border: 5px solid #eeeeee;
+  text-align: center;
+  cursor: pointer;
+}
+.f-title{
+  padding-left:10px;
+  padding-top: 0px;
+  color:black;
+  font-weight: bold;
+  font-size: 175%;
+  line-height: 25px;
+}
+.f-txt{
+  padding-left:10px;
+  color:black;
+  font-size: 100%;
+  line-height: 15px;
+  font-weight: bold;
+}
+.f-btn{
+  background-color: #eeeeee;
+  color: blue;
+  text-decoration: none;
+  padding-left:10px;
+}
+.f-btn:hover{
+  color: rgb(0, 0, 100);
+}

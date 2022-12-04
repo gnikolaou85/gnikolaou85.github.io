@@ -1,0 +1,109 @@
+.title{
+  margin-top: 5%;
+  font-size:375%;
+  font-weight: bold;
+}
+.logia{
+  margin-left:20%;
+  margin-right: 20%;
+}
+.prwto{
+  position:fixed;
+  z-index: -1;
+}
+.megalo{
+  position:absolute;
+  width: 100%;
+  background-color: #eeeeee;
+  z-index: 1;
+  top:100%;
+}
+.fkouti{
+  background-color: #00adb5;
+  width:60%;
+  padding-top:2.5%;
+  padding-bottom:2.5%;
+}
+form{
+  background-color: #eeeeee;
+}
+.stoixeio{
+  width:80%;
+  height:25px;
+  margin-top:1%;
+  margin-bottom:1%;
+  padding-left: 5px;
+  font-size: 115%;
+}
+.about{
+  width:80%;
+  padding: 0px;
+  margin:0px;
+  text-align: left;
+  font-size: 115%;
+  font-weight: bold;
+}
+.epilogi{
+  height:30px;
+  margin-top:1%;
+  margin-bottom:1%;
+  padding-left: 5px;
+  font-size: 115%;
+  width:48%;
+  margin-right:2.5%;
+}
+.poso{
+  height:25px;
+  margin-top:1%;
+  margin-bottom:1%;
+  padding-left: 5px;
+  font-size: 115%;
+  width:47%;
+}
+textarea{
+  width:80%;
+  font-size: 115%;
+  margin-top:1%;
+  margin-bottom:1%;
+}
+.pliromi{
+  text-align: center;
+  width: 80%;
+  margin-bottom:1%;
+  font-size: 115%;
+
+}
+.mesa{
+  width:40%;
+  display: inline-block;
+}
+.f-title{
+  font-weight: bold;
+}
+.imgg{
+  cursor: pointer;
+}
+.imgg:hover{
+  opacity: 0.5;
+}
+.btnn{
+  display: inline-block;
+  margin-right:2%;
+  margin-bottom:1%;
+  width:35%;
+  background-color: green;
+  color:black;
+  font-size: 120%;
+  
+}
+.btnn:hover{
+  background-color: #00adb5;
+  color:black;
+}
+.btnn2{
+  background-color:orange;
+}
+.btnn2:hover{
+  background-color: #00adb5;
+  color:black;
+}

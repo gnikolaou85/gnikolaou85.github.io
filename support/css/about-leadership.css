@@ -1,0 +1,13 @@
+.egw{
+  width:100%;
+  margin-top:7%;
+  background-color: white;
+}
+.text{
+  width:30%;
+}
+.me{
+  background-image: url("img/friends.jpg");
+  background-attachment:fixed;
+  position:relative;
+}

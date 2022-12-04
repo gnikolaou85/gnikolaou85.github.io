@@ -1,0 +1,64 @@
+.title{
+    margin-top: 20%;
+    font-size:400%;
+    font-weight: bold;
+    text-align: center;
+    z-index: -1;
+  }
+  .logia{
+    text-align: center;
+    font-size: 150%;
+    z-index: 1;
+  }
+  .prwto{
+    z-index: -4;
+    position: fixed;
+    top:35%;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+.d1{
+    position: sticky;
+    top: 0px;
+    width: 100%;
+    z-index: -3;
+  }
+  .d1 img{
+    width: 100%;
+  }
+  .d1 h1{
+    position: absolute;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 150%;
+    top: 50%;
+    color: white;
+    text-align: center;
+    background-color:#222831 ;
+    opacity: 0.8;
+  }
+  .d2{
+    position: relative;
+    width: 100%;
+    z-index: -3;
+  }
+  .d2 img{
+    width: 100%;
+  }
+  .d2 h1{
+    position: absolute;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 150%;
+    top: 50%;
+    color: white;
+    text-align: center;
+    background-color:#222831 ;
+    opacity: 0.8;
+  }
+  .none{
+    margin-top: 60%;
+    color: transparent;
+  }

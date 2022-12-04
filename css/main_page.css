@@ -1,0 +1,104 @@
+.tdq {
+    border: 3px solid #eeeeee;
+    background:#222831;
+    transition: background 0.5s;
+    width: 50%;
+    position:relative;
+  }
+  .tdq:hover{
+    background: #eeeeee;
+    transition: background 1s;
+  }
+  .trq{
+    border: 3px solid #eeeeee;
+    background-color:#eeeeee;
+  }
+  .tableq{
+    width: 100%;
+    padding-left:0%;
+    padding-right: 0%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    border: 3px solid #eeeeee;
+    background-color:#eeeeee;
+  }
+  .apa{
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#222831;
+  }
+  .img_apa{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#222831;
+  }
+  .img_pr{
+    width: 65%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .ppinakas{
+    width:80%;  
+  }
+  .f-img{
+    width: 50%;
+    background-color: white;
+  }
+  .f-td:hover .f-img{
+    background-color: #f4f4f4;
+  }
+  .f-td{
+    background-color: white;
+    border: 5px solid #eeeeee;
+    text-align: center;
+    cursor: pointer;
+    height: 250px;
+    width: 25%;
+  }
+  .f-td a{
+      text-decoration: none;
+      font-size: 200%;
+      color: gray;
+  }
+  .f-td:hover a{
+    font-weight: bold;
+}
+  .f-td:hover{
+    background-color: #f4f4f4;
+    border: 5px solid #eeeeee;
+    text-align: center;
+    cursor: pointer;
+  }
+  .f-title{
+    padding-left:10px;
+    padding-top: 0px;
+    color:black;
+    font-weight: bold;
+    font-size: 175%;
+    line-height: 25px;
+  }
+  .f-txt{
+    padding-left:10px;
+    color:black;
+    font-size: 100%;
+    line-height: 15px;
+    font-weight: bold;
+  }
+  .f-btn{
+    background-color: #eeeeee;
+    color: blue;
+    text-decoration: none;
+    padding-left:10px;
+  }
+  .f-btn:hover{
+    color: rgb(0, 0, 100);
+  }

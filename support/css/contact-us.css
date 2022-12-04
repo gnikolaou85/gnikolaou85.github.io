@@ -1,0 +1,64 @@
+body{
+  padding-top:3%;
+}
+first{
+  color:green;
+  font-size:200%;
+}
+.pinakas{
+  margin:auto;
+  width:60%;
+}
+p{
+  color:gray;
+  font-size: 120%;
+}
+td{
+  width:50%;
+}
+help{
+  color:gray;
+}
+email{
+  font-weight: bold;
+}
+input{
+  width:80%;
+  height:30px;
+  margin-bottom: 10px;
+  background-color: #eeeeee;
+  border: 1px solid black;
+  font-size: 115%;
+  padding-left: 3px;
+}
+textarea{
+  width:80%;
+  margin-bottom: 10px;
+  background-color: #eeeeee;
+  border: 1px solid black;
+  font-size: 115%;
+  padding-left: 3px;
+}
+.forma{
+  margin-top:-5%;
+}
+td{
+  padding:5px;
+}
+.koumpi{
+  display: inline-block;
+  width:40%;
+  background-color: green;
+  color:#eeeeee;
+}
+.koumpi:hover{
+  background-color: #00adb5;
+  color:black;
+}
+.koumpi2{
+  background-color:orange;
+}
+.koumpi2:hover{
+  background-color: #00adb5;
+  color:black;
+}

@@ -1,0 +1,58 @@
+.loginbox{
+  position:relative;
+  margin:auto;
+  width:30%;
+  z-index: 1;
+  margin-top:17%;
+  padding:5px;
+  color:#eeeeee;
+  opacity: 0.8;
+}
+input{
+  width:75%;
+  height:30px;
+  color:#393e46;
+  border-radius: 10px;
+  font-size: 20px;
+}
+.bg{
+  position:fixed;
+  width:100%;
+  top:0;
+  left:0;
+  z-index: -1;
+  opacity: 0.95;
+}
+.chkbox{
+  position:absolute;
+  left:-23%;
+  height:20px;
+}
+.chkbox2{
+  position:absolute;
+  left:18%;
+  top:88.5%;
+}
+.loginbtn{
+  text-decoration: none;
+  color:black;
+  border: 2px solid #eeeeee;
+  border-radius: 1000px;
+  position:absolute;
+  left:80%;
+  top:95%;
+  transition:font-size 0.5s;
+}
+.loginbtn:hover{
+  color:#eeeeee;
+  transition: color 1s;
+  text-decoration: none;
+  border: 2px solid #222831;
+  transition:border 1s;
+  border-radius: 1000px;
+  position:absolute;
+  left:80%;
+  top:95%;
+  font-size:20px;
+  transition:font-size 0.5s;
+}
