@@ -1,0 +1,24 @@
+.btnn{
+    display: inline-block;
+    margin-right:2%;
+    margin-bottom:1%;
+    width:35%;
+    background-color: green;
+    color:black;
+    font-size: 120%;
+    
+  }
+  .btnn:hover{
+    background-color: #00adb5;
+    color:black;
+  }
+  .btnn2{
+    background-color:orange;
+  }
+  .btnn2:hover{
+    background-color: #00adb5;
+    color:black;
+  }
+  .imgg{
+      cursor: pointer;
+  }
